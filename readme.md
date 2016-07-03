@@ -9,8 +9,8 @@ install gradle
 * `$ brew install gradle`
 
 clone project
-* `$ git clone git@github.com:jdliss/java.git`
-* `$ cd java/tdd-linked-list`
+* `$ git clone git@github.com:jdliss/java-linked-list-tdd.git`
+* `$ cd java-linked-list-tdd`
 
 run the tests with gradle
 * `$ gradle test`
